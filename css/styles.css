@@ -524,7 +524,8 @@ address {
 }
 .subscription-form {
     display: block;
-    margin-left: 93px;
+    margin-right: 0;
+    margin-left: auto;
 }
 .subscription-form-head {
     font-family: inherit;
